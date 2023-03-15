@@ -1,5 +1,10 @@
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+
 <h1 align="center">Hi 👋, I'm Jay Barot</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I’m currently working on **Backend api's**
 
@@ -8,6 +13,7 @@
 - 👨‍💻 All of my projects are available at [www.mywebproject.xyz/jay](www.mywebproject.xyz/jay)
 
 - 📫 How to reach me **barot6997@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +32,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JayBarot07&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
